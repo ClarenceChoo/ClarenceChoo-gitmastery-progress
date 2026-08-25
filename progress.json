@@ -277,5 +277,14 @@
       "Answer for Which numbers are present in stream-2 but not in stream-1? is empty."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "merge-squash",
+    "started_at": 1787630832.982161,
+    "completed_at": 1787630834.424046,
+    "comments": [
+      "Good job performing a merge squash!"
+    ],
+    "status": "Completed"
   }
 ]
